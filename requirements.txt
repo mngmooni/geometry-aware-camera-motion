@@ -1,0 +1,11 @@
+# Application, evaluation, visualization, and notebook dependencies.
+# Single source for pyproject.toml package metadata.
+numpy>=1.24,<3
+scipy>=1.10,<2
+matplotlib>=3.7,<4
+torch>=2.1,<3
+imageio>=2.31,<3
+Pillow>=9.5,<13
+nbformat>=5.9,<6
+ipython>=8.12,<10
+pytest>=7,<10

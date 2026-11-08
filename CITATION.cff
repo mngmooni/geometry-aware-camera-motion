@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research code or benchmark, please cite this repository."
+title: "Geometry-Aware Generative Modeling for Controllable Cinematic Camera Motion"
+authors:
+  - family-names: "Choi"
+    given-names: "Yewon"
+version: 0.1.0
+type: software
+license: MIT

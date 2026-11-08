@@ -1,0 +1,9 @@
+dataset,panel,metric,baseline,comparison,difference,ci_low,ci_high,interpretation
+E1a,ID,TV5,rel_pose,rel_inc,-0.0022,-0.0095,0.0054,CI spans zero
+E1b,ID,TV5,rel_pose,rel_inc,-0.002,-0.0108,0.006902,CI spans zero
+E1a,ID,TV5,rel_pose,rfm_so3,0.0217,0.0136,0.0298,Positive difference; CI excludes zero
+E1b,ID,TV5,rel_pose,rfm_so3,0.0214,0.0122,0.0305,Positive difference; CI excludes zero
+E1a,OOD,TV5,rel_pose,rfm_so3,0.015,-0.0015,0.03025,CI spans zero
+E1a,ID,"Endpoint position (m), mean per-condition median",rel_pose,rel_inc,0.01227,0.01168,0.01288,Positive difference; CI excludes zero
+E1b,ID,"Endpoint position (m), mean per-condition median",rel_pose,rel_inc,0.05612,0.0539,0.05847,Positive difference; CI excludes zero
+E1b,ID,"Endpoint position (m), mean per-condition median",rel_pose,rfm_so3,0.005961,0.005431,0.006529,Positive difference; CI excludes zero

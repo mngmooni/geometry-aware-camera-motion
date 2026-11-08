@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.zip
+.DS_Store
+
+# Local environments and packaging artifacts
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.coverage
+.pytest_temp/
